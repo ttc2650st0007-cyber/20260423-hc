@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background: rgb(186, 227, 245);
+    color: rgb(246, 182, 8)
+}
+h1 {
+    color:rgba(255, 81, 0, 0.763)
+}
+p {
+    color:rgb(33, 88, 81);
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 2px solid rgb(33, 88, 81)
+}
